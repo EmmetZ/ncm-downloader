@@ -1,0 +1,8 @@
+aiohttp==3.9.0
+flet==0.17.0
+mutagen==1.47.0
+Pillow==10.0.1
+pyncm==1.6.12
+pyncm_async==0.0.2
+qrcode==7.4.2
+Requests==2.31.0
